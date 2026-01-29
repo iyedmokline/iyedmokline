@@ -16,7 +16,7 @@ Here, I share a selection of projects, blending academic research, internship wo
 
 <p align="center">
   <a href="https://github.com/iyedmokline/option-pricer-lab" target="_blank">
-    <img src="./assets/option-pricer.png" alt="Option Pricer Lab" width="550"/>
+    <img src="./assets/quant-fx-lab.png" alt="Option Pricer Lab" width="550"/>
   </a>
 </p>
 
