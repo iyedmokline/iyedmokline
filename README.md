@@ -12,23 +12,31 @@ Here, I share a selection of projects, blending academic research, internship wo
 
 ## 🧠 Projects 
 
-### 💱 Quant-FX Lab: Research-Driven FX Option Pricing & Hedging Framework
+### 💱 Option Pricer Lab — Black–Scholes Pricing & Delta-Hedging (C++)
 
 <p align="center">
-  <a href="https://github.com/mmokline/quant-fx-lab" target="_blank">
-    <img src="./assets/quant-fx-lab.png" alt="Quant FX Lab" width="550"/>
+  <a href="https://github.com/iyedmokline/option-pricer-lab" target="_blank">
+    <img src="./assets/option-pricer.png" alt="Option Pricer Lab" width="550"/>
   </a>
 </p>
 
 - **Overview:**  
-  Developing a research-driven framework for FX option pricing, volatility calibration, and hedging simulation.  
-  The project integrates classical models (Black-Scholes, Binomial Trees) with advanced methods (GARCH, Heston)  
-  and a Streamlit dashboard for interactive risk analysis. **(Currently under active development)**
+  Designed and implemented a C++ quantitative finance framework to **price European options** and  
+  **simulate delta-hedging strategies** under the **Black–Scholes model**.  
+  The project combines **closed-form analytical pricing**, **Monte Carlo simulation**,  
+  and a **self-financing replication engine** to study hedging accuracy under discrete rebalancing.
+
+- **Key Components:**  
+  - Black–Scholes analytical pricing (Call / Put)  
+  - Monte Carlo option pricing  
+  - Delta computation and dynamic hedging  
+  - Discrete-time self-financing portfolio simulation  
+  - Analysis of replication and hedging error
 
 - **Technologies:**  
-  Python · NumPy · Pandas · SciPy · ARCH (GARCH) · QuantLib · Streamlit · Plotly
+  C++ · Object-Oriented Programming (OOP) · STL · Monte Carlo Methods · Quantitative Finance
 
-🔗 [View Project Repository](https://github.com/mmokline/quant-fx-lab)
+🔗 [View Project Repository](https://github.com/iyedmokline/option-pricer-lab)
 
 
 ### 📉 Volatility Prediction: FX Market Risk Analysis Framework
