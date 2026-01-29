@@ -12,7 +12,7 @@ Here, I share a selection of projects, blending academic research, internship wo
 
 ## 🧠 Projects 
 
-### 💱 Option Pricer Lab — Black–Scholes Pricing & Delta-Hedging (C++)
+### 💱 Option Pricer Lab - Black–Scholes Pricing & Delta-Hedging
 
 <p align="center">
   <a href="https://github.com/iyedmokline/option-pricer-lab" target="_blank">
