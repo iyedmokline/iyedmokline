@@ -3,7 +3,7 @@
 Hi, I’m Iyed, currently in my second year at [ENSAE Paris](https://www.ensae.fr), where I explore the intersection of **Statistics**, **Quantitative Finance**, and **Data Science**.
 
 I’m always open to new ideas, collaborations, or just interesting discussions.  
-📫 Reach me at **mohamediyed.mokline@ensae.fr**  
+📫 Reach me at **iyed.mokline@gmail.com**  
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/mohamed-iyed-mokline-2432b132a/)
 
 Here, I share a selection of projects, blending academic research, internship work, and personal experimentation.
